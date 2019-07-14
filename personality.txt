@@ -1,16 +1,18 @@
 1. Tell me something about yourself that isn’t on your resume.
-
+->  I'm funny and people like being around me.
 
 2. Tell us about an accomplishment you are most proud of.
-
+-> I got an opportunity to be a volunteer in the 106th Indian Science Congress 2019. My job was to deal with delegates and help them to complete their online registration process. It was a great experience. I made so many friends at that time. I also participate in some of the events. This is one of my accomplishment I'm proud of. 
 
 3. What do you know about AsknBid and why do you want to work for AsknBid?
-
-
+-> AsknBid is a private company started on 07 Mar 2018. AsknBid provides Business Services and company operations are active. 
+Mr Suresh Bavisetti is a founder at AsknBid. He also worked at Code Nation in SDE I position.
+  
 4. What made you want to apply for this position?
-
+-> I have been waiting for a company like yours because I really want to work in the field of data science. And I have done my research where I found that there is always so many things to learn when we work in a start-up's or the company which is started. It's the time of the company when they have so many challenges. So, I  want to experience all the ups and down while working in a corporate world. 
 
 5. What can you offer us that someone else cannot?
-
+-> I have experience in the projects related to data science and I have good knowledge of data representation and telling stories with my data visualisation. I am very adaptive and good in handling a team as well as working as a part of the team.
 
 6. Tell us about a time you made a mistake and how you handled it.
+-> Me and teammates were working in a project and I was the team leader. We have less time to come up with the project. One of my teammates has not come up with the work he assigned. It was my fault that I have assigned him a part which he is not familiar with. At the last movement, I compleated his work and submit the project.
